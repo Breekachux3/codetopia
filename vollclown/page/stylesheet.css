@@ -1,20 +1,6 @@
 @font-face { font-family: 'berliner-grotesk';
              src: url('berliner-grotesk.ttf') format('truetype'); }
 
-
-.col-xs-4 {
-
-}
-
-.col-lg-4+.col-lg-4{
-  background-color: yellow;
-}
-
-.col-lg-4+.col-lg-4+.col-lg-4{
-  background-color: green;
-}
-
-
 .brand {
     position: absolute;
     left: 50%;
